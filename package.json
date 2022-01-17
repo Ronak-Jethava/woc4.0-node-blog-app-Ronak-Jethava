@@ -1,0 +1,23 @@
+{
+  "name": "blog-app",
+  "version": "1.0.0",
+  "description": "A blog app to learn the nodeJS and MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ronak-Jethava/woc4.0-node-blog-app-Ronak-Jethava.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ronak-Jethava/woc4.0-node-blog-app-Ronak-Jethava/issues"
+  },
+  "homepage": "https://github.com/Ronak-Jethava/woc4.0-node-blog-app-Ronak-Jethava#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "express-handlebars": "^6.0.2"
+  }
+}
